@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+        {
+          "appIDs": [ "ARUQY384KD.jp.hackenbacker.QR-Scan2" ],
+          "components": [
+            {
+              "/": "/hackenbacker/universal-link*"
+            }
+          ]
+        }
+      ]
+   }
+}
+
