@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
         {
-          "appIDs": [ "ARUQY384KD.jp.hackenbacker.QR-Scan2" ],
+          "appIDs": [ "83K8X4XQ55.jp.hackenbacker.QRScan2" ],
           "components": [
             {
               "/": "/universal-link*"
